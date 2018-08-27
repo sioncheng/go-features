@@ -1,0 +1,6 @@
+{
+	"ImportPath": "github.com/sioncheng/go-features",
+	"GoVersion": "go1.10",
+	"GodepVersion": "v80",
+	"Deps": []
+}
